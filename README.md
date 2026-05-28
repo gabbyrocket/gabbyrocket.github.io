@@ -129,7 +129,7 @@ footer {
 <header>
 <h1>Gabrielle Yeager</h1>
 <p>
-Engineering Student → Incoming Aerospace Graduate Student<br><br>
+ing Student → Incoming Aerospace Graduate Student<br><br>
 Building rockets. Documenting the journey. Aiming beyond Earth.
 </p>
 </header>
@@ -146,7 +146,7 @@ Building rockets. Documenting the journey. Aiming beyond Earth.
 <h2>About Me</h2>
 <div class="card">
 <p>
-Hands-on mechanical engineer with experience in CAD, FEA, CNC machining, and full-cycle hardware development.
+Hands-on engineering student with experience in CAD, FEA, CNC machining, and full-cycle hardware development.
 </p>
 </div>
 </section>
@@ -156,13 +156,18 @@ Hands-on mechanical engineer with experience in CAD, FEA, CNC machining, and ful
 <div class="grid">
 
 <div class="card">
+<h3>Flexible End Effector</h3>
+<p>Designed, analyzed, and manufactured a fully functional mechanical system.</p>
+</div>
+
+<div class="card">
 <h3>High-Powered Rocketry (Level 2)</h3>
 <p>Launched to 9,000 ft with full avionics and recovery system integration.</p>
 </div>
 
 <div class="card">
-<h3>Flexible End Effector</h3>
-<p>Designed, analyzed, and manufactured a fully functional mechanical system.</p>
+<h3>High-Powered Rocketry (Level 1)</h3>
+<p>Launched to 2,000 ft with recovery system integration.</p>
 </div>
 
 <div class="card">
