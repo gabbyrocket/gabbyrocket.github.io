@@ -198,7 +198,7 @@ Hands-on engineering student with experience in CAD, FEA, CNC machining, and ful
 
 <div class="card">
 <p>
-Follow my journey into aerospace engineering as I begin my Master’s and continue building toward a career in space systems.
+Follow my journey into aerospace engineering as I begin my Master’s and continue building toward a career in the space industry.
 </p>
 <p><strong>Instagram:</strong> @gabbyrocket</p>
 </div>
