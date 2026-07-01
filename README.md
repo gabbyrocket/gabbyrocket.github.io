@@ -129,7 +129,7 @@ footer {
 <header>
 <h1>Gabrielle Yeager</h1>
 <p>
-ing Student → Incoming Aerospace Graduate Student<br><br>
+Engineering Student → Incoming Aerospace Graduate Student<br><br>
 Building rockets. Documenting the journey. Aiming beyond Earth.
 </p>
 </header>
