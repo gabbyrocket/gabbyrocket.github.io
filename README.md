@@ -157,22 +157,15 @@ Hands-on engineering student with experience in CAD, FEA, CNC machining, and ful
 
 <div class="card">
 <h3>Flexible End Effector</h3>
-<p>Designed, analyzed, and manufactured a fully functional mechanical system.</p>
+<p>Designed structural components, latch mechanisms, and guide-arm assemblies in SolidWorks/Fusion 360, producing full assembly drawings and tolerance analyses for deliverables.</p>
+<p>Performed FEA on structural members to evaluate stress, deflection, and safety factors; iterated the design for stiffness, weight reduction, and manufacturability.</p>
+<p>Fabricated custom aluminum hardware using CNC machining, drilling/tapping/ metal cutting, and precision press-fit operations; built and assembled motor mounts, L-bars, linear-rail supports, bearing housings, and latch hardware.</p>
+<p>Integrated hardware with motors, linear rails, sensors, and software controls; developed and executed load testing, grip-force evaluation, cycle testing, and reliability validation, taking the design from concept through tested hardware.</p>
 </div>
 
 <div class="card">
-<h3>High-Powered Rocketry (Level 2)</h3>
-<p>Launched to 9,000 ft with full avionics and recovery system integration.</p>
-</div>
-
-<div class="card">
-<h3>High-Powered Rocketry (Level 1)</h3>
-<p>Launched to 2,000 ft with recovery system integration.</p>
-</div>
-
-<div class="card">
-<h3>NASA NPWEE</h3>
-<p>AI/ML modeling for exoplanet atmospheric analysis and proposal evaluation.</p>
+<h3>High-Powered Rocketry NAR - Level 1 & 2 Certification</h3>
+<p>Designed, built, and launched high-power rockets on H and K-class motors to altitudes up to 9,000 ft, integrating avionics, motor retention, and recovery deployment systems.</p>
 </div>
 
 </div>
