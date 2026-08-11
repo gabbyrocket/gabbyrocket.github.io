@@ -146,7 +146,10 @@ Building rockets. Documenting the journey. Aiming beyond Earth.
 <h2>About Me</h2>
 <div class="card">
 <p>
-Hands-on engineering student with experience in CAD, FEA, CNC machining, and full-cycle hardware development.
+Aerospace engineering graduate student specializing in propulsion, with hands-on experience in high-power rocketry, structural
+design, FEA, and hardware fabrication. Skilled in SolidWorks, ANSYS, MATLAB, and Simulink, with a track record of taking
+systems from concept through tested hardware. Pursuing a Master of Science in Aerospace Engineering at USC with a propulsion
+specialization, targeting roles in aerospace and defense.
 </p>
 </div>
 </section>
