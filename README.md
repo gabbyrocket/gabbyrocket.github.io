@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Gabrielle Y. | Portfolio</title>
+<title>Gabrielle Yeager | Portfolio</title>
 <meta name="description" content="Portfolio of Gabrielle Y.: experience, projects, skills and contact.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -164,8 +163,8 @@ footer{text-align:center;color:var(--muted);font-size:.88rem;padding:20px 0 40px
 <header class="hero" id="top">
   <div>
     <h1>Gabrielle Y.</h1>
-    <p class="headline">Florida Institute of Technology. Payload sub-systems and electrical lead with a robotics background.</p>
-    <p class="status">Las Vegas, Nevada</p>
+    <p class="headline">University of Southern California. Aerospace Engineering Graduate Student.</p>
+    <p class="status">Los Angeles, California</p>
     <div class="actions">
       <a class="btn primary" href="#contact">Contact me</a>
       <a class="btn" href="https://github.com/yourusername" target="_blank" rel="noopener">GitHub</a>
@@ -183,12 +182,11 @@ footer{text-align:center;color:var(--muted);font-size:.88rem;padding:20px 0 40px
   <section id="about">
     <h2>Mission briefing</h2>
     <div class="brief">
-      <p class="lead">Write two or three short paragraphs: who you are, what you are good at, and what you want to work on next. Mention the kinds of problems you enjoy and one thing that makes your approach yours.</p>
+      <p class="lead">Aerospace Engineering graduate student specializing in propulsion, with hands-on experience in high-power rocketry, structural design, FEA, and hardware fabrication. Skilled in CAD modeling, ANSYS, MATLAB, and Simulink, with a track record of taking systems from concept through tested hardware.</p>
       <dl class="specs">
-        <div><dt>Base</dt><dd>Las Vegas, Nevada</dd></div>
-        <div><dt>Academy</dt><dd>Florida Institute of Technology</dd></div>
-        <div><dt>Focus</dt><dd>Payload sub-systems, electrical</dd></div>
-        <div><dt>In robotics since</dt><dd>2016</dd></div>
+        <div><dt>Base</dt><dd>Los Angeles, California</dd></div>
+        <div><dt>Academy</dt><dd>University of Southern California</dd></div>
+        <div><dt>Focus</dt><dd>Propulsion</dd></div>
       </dl>
     </div>
   </section>
@@ -196,6 +194,66 @@ footer{text-align:center;color:var(--muted);font-size:.88rem;padding:20px 0 40px
   <section id="experience">
     <h2>Flight log</h2>
     <div class="log zig">
+            <div class="item">
+        <h3>Engine Design Engineer</h3>
+        <p class="where">USC Liquid Propulsion Laboratory</p>
+        <p class="when">Aug 2026 – Present</p>
+              <!-- Add 1-3 bullets on what you built or led: <ul><li>...</li></ul> -->
+            </div>
+      <div class="item">
+        <h3>Peer Tutor</h3>
+        <p class="where">Florida Institute of Technology</p>
+        <p class="when">Sept 2025 – Dec 2025</p>
+        <!-- Add 1-3 bullets on what you built or led: <ul><li>...</li></ul> -->
+      </div>
+            <div class="item">
+        <h3>Volunteer Undergraduate Research Assistant</h3>
+        <p class="where">He Group</p>
+        <p class="when">Oct 2024 – Feb 2025</p>
+              <!-- Add 1-3 bullets on what you built or led: <ul><li>...</li></ul> -->
+            </div>
+       <div class="item">
+        <h3>Campus Ambassador</h3>
+        <p class="where">Hot Girl Walk</p>
+        <p class="when">Nov 2024 – Dec 2025</p>
+        <!-- Add 1-3 bullets on what you built or led: <ul><li>...</li></ul> -->
+       </div>
+                  <div class="item">
+        <h3>Treasurer</h3>
+        <p class="where">AIAA Florida Tech</p>
+        <p class="when">Aug 2024 – Dec 2025</p>
+        <!-- Add 1-3 bullets on what you built or led: <ul><li>...</li></ul> -->
+                  </div>
+                   <div class="item">
+        <h3>Safety Chair / Safety & Legal Compliance Officer</h3>
+        <p class="where">AIAA Florida Tech</p>
+        <p class="when">Aug 2023 – Dec 2025</p>
+        <!-- Add 1-3 bullets on what you built or led: <ul><li>...</li></ul> -->
+                   </div>
+                    <div class="item">
+        <h3>Social Media Chair</h3>
+        <p class="where">AIAA Florida Tech</p>
+        <p class="when">Aug 2023 – Dec 2024</p>
+        <!-- Add 1-3 bullets on what you built or led: <ul><li>...</li></ul> -->
+                    </div>
+                     <div class="item">
+        <h3>Student Government Association Representative</h3>
+        <p class="where">AIAA Florida Tech</p>
+        <p class="when">Aug 2023 – Dec 2024</p>
+        <!-- Add 1-3 bullets on what you built or led: <ul><li>...</li></ul> -->
+                     </div>
+                      <div class="item">
+        <h3>Volunteer Student Course Proctor</h3>
+        <p class="where">AIAA</p>
+        <p class="when">Mar 2025 – May 2025</p>
+        <!-- Add 1-3 bullets on what you built or led: <ul><li>...</li></ul> -->
+                      </div>
+       <div class="item">
+        <h3>Lead Engineer</h3>
+        <p class="where">NASA L'SPACE Academy</p>
+        <p class="when">Jan 2024 – Apr 2024</p>
+        <!-- Add 1-3 bullets on what you built or led: <ul><li>...</li></ul> -->         
+            </div>
       <div class="item">
         <h3>Payload Sub-Systems Lead</h3>
         <p class="where">Rocketbirds</p>
