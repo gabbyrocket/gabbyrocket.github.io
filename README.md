@@ -283,14 +283,12 @@ footer{text-align:center;color:var(--muted);font-size:.88rem;padding:20px 0 40px
       <article class="payload"><div class="bay"></div>
         <h3>NAR Level 2 High-Power Rocketry Certification</h3>
         <p>Used OpenRocket to evaluate the vehicles's predicted performance. Fabricated and assembled the necessary flight hardware. Integrated avionics/GPS and prepared the vehicle for high-power flight. The rocket reached approximately 9,000 ft using a K motor. The experience strengthened my interest in propulsion and aerospace systems by showing how closely propulsion, aerodynamics, structures, avionics, and flight operations are connected.</p>
-        <div class="chips" style="margin-top:12px"><span class="chip">OpenRocket</span><span class="chip">High-Power Rocketry</span></div>
-        </div>
+        <div class="chips" style="margin-top:12px"><span class="chip">OpenRocket</span><span class="chip">High-Power Rocketry</span> </div>
       </article>
       <article class="payload"><div class="bay"></div>
-        <h3>Project Two</h3>
-        <p>One or two sentences on what it does and why you built it.</p>
-        <div class="chips" style="margin-top:12px"><span class="chip">CAD</span><span class="chip">Fabrication</span></div>
-        <div class="links"><a href="https://github.com/gabbyrocket/project-two" target="_blank" rel="noopener">Code</a></div>
+        <h3>CubeSat Thermal-Management</h3>
+        <p>The problem: How can a small spacecraft maintain safe internal temperature in the extreme thermal environment of low Earth orbit without relying on active cooling? The project investigated a passive, lightweight thermal-control system for a representative 1U CubeSat (10 x 10 x 10 cm). The modeled spacecraft generated approximately 5 W of internal heat. Due to being in a vacuum, thermal management heavily relies on direct solar radiation, Earth's infrared radiation, and Eclipses/Earth's shadow. The maximum solar constant considered in the project was approximately 1,414 W/m^2 suggesting that the spacecraft has to survive both hot and cold orbital conditions.</p>
+        <div class="chips" style="margin-top:12px"><span class="chip">Thermal Systems Design</span><span class="chip">Thermodynamics</span><span class="chip">Heat Transfer</span></div>
       </article>
       <article class="payload"><div class="bay"></div>
         <h3>Project Three</h3>
