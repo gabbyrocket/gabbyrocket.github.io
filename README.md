@@ -175,11 +175,9 @@ footer{text-align:center;color:var(--muted);font-size:.88rem;padding:20px 0 40px
       </dl>
     </div>
   </section>
-
   <section id="experience">
     <h2>Flight path</h2>
     <p class="sub">Three stages, newest first.</p>
-
     <div class="stage">
       <div class="tag"><b>Stage 3</b><span>Graduate<br>2026 – now</span></div>
       <div class="cards">
@@ -196,7 +194,6 @@ footer{text-align:center;color:var(--muted);font-size:.88rem;padding:20px 0 40px
         </div>
       </div>
     </div>
-
     <div class="stage">
       <div class="tag"><b>Stage 2</b><span>Florida Tech<br>2023 – 2025</span></div>
       <div class="cards">
@@ -254,7 +251,6 @@ footer{text-align:center;color:var(--muted);font-size:.88rem;padding:20px 0 40px
         </div>
       </div>
     </div>
-
     <div class="stage">
       <div class="tag"><b>Stage 1</b><span>Launch pad<br>2016 – 2021</span></div>
       <div class="cards">
@@ -310,13 +306,13 @@ footer{text-align:center;color:var(--muted);font-size:.88rem;padding:20px 0 40px
     <div class="cards">
       <div class="card">
         <h3>University of Southern California</h3>
-        <p class="where">Aerospace Engineering (graduate)</p>
+        <p class="where">M.S. Aerospace Engineering</p>
         <p class="when">2026 – Present</p>
       </div>
       <div class="card">
         <h3>Florida Institute of Technology</h3>
-        <p class="where">Your degree and major</p>
-        <p class="when">Start year – End year</p>
+        <p class="where">B.S. Mechanical Engineeringr</p>
+        <p class="when">2022 – 2025</p>
       </div>
     </div>
     <div class="patches">
@@ -329,8 +325,8 @@ footer{text-align:center;color:var(--muted);font-size:.88rem;padding:20px 0 40px
     <h2>Toolkit</h2>
     <div class="toolkit">
       <div><h3>Analysis</h3><div class="chips"><span class="chip">FEA</span><span class="chip">CFD</span><span class="chip">ANSYS</span><span class="chip">MATLAB</span><span class="chip">Simulink</span></div></div>
-      <div><h3>Design and build</h3><div class="chips"><span class="chip">CAD</span><span class="chip">Creo</span><span class="chip">Hardware fabrication</span><span class="chip">High-power rocketry</span></div></div>
-      <div><h3>Team</h3><div class="chips"><span class="chip">Leadership</span><span class="chip">Tutoring</span><span class="chip">Safety compliance</span><span class="chip">Media and marketing</span></div></div>
+      <div><h3>Design and build</h3><div class="chips"><span class="chip">CAD</span><span class="chip">Creo</span><span class="chip">Hardware Fabrication</span><span class="chip">High-Power Rocketry</span><span class="chip">Siemens NXy</span></div></div>
+      <div><h3>Team</h3><div class="chips"><span class="chip">Leadership</span><span class="chip">Tutoring</span><span class="chip">Mentoring</span></div></div>
     </div>
   </section>
 
