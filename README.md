@@ -247,7 +247,22 @@ footer{text-align:center;color:var(--muted);font-size:.88rem;padding:20px 0 40px
           <h3>Lead Engineer</h3>
           <p class="where">NASA L'SPACE Academy</p>
           <p class="when">Jan 2024 – Apr 2024</p>
-          <!-- Add 1-2 bullets on what you built or led -->
+          <ul><li>Actively participated in crafting, reviewing, and scoring proposals and gained valuable insights from the discerning
+perspective of a NASA reviewer.</li>
+          <ul><li>The primary reviewer for the academy and led the discussion alongside the Deputy Center Chief Technologist for
+the Marshall Space Flight Center.</li>
+          <ul><li>Conducted research on AI/ML-based inverse modeling techniques for exoplanet atmospheric retrieval in support of
+the NASA ARIEL Mission.</li>
+         <ul><li>Assisted in the development and validation of inverse modeling algorithms as computationally efficient alternatives
+to traditional MCMC retrieval methods.</li>
+         <ul><li>Generated and preprocessed simulated exoplanet atmospheric spectra under varying physical and observational
+constraints.</li>
+         <ul><li>Performed model benchmarking and performance analysis, evaluating accuracy, convergence behavior, and
+computational efficiency.</li>
+         <ul><li>Collaborated with a multidisciplinary research team in weekly technical meetings and contributed to formal NASA-
+style proposal writing and final technical reporting.</li>
+         <ul><li>Gained experience in scientific computing, uncertainty analysis, and data-driven modeling for astrophysical
+applications.</li>
         </div>
       </div>
     </div>
