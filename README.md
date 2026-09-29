@@ -192,60 +192,104 @@ footer{text-align:center;color:var(--muted);font-size:.88rem;padding:20px 0 40px
   </section>
 
   <section id="experience">
-    <h2>Flight log</h2>
+    <h2>Flight Log</h2>
     <div class="log zig">
             <div class="item">
         <h3>Engine Design Engineer</h3>
         <p class="where">USC Liquid Propulsion Laboratory</p>
         <p class="when">Aug 2026 – Present</p>
-              <!-- Add 1-3 bullets on what you built or led: <ul><li>...</li></ul> -->
+<ul>
+    <li>Develop and update CAD models of Nova’s coaxial-swirl injector, incorporating design iterations and engineering requirements.</li>
+    <li>Perform FEA on injector components to evaluate structural performance, stress, deformation, and design integrity under operating conditions.</li>
+  <li>Conduct CFD analyses to investigate injector flow behavior and support evaluation of fluid-flow and atomization characteristics.</li>
+  <li>Collaborate with the rest of the  team to incorporate FEA/CFD results into injector design iterations, supporting performance and manufacturability.</li>
+  </ul>
             </div>
       <div class="item">
         <h3>Peer Tutor</h3>
         <p class="where">Florida Institute of Technology</p>
         <p class="when">Sept 2025 – Dec 2025</p>
+<ul>
+    <li>Provided one-on-one and small-group instruction for upper-division engineering courses, including Thermodynamics II, Fluid Mechanics, and Solids Modeling (Creo), strengthening communication of technical concepts to diverse audiences.</li>
+    <li>Adapt tutoring methods to different learning styles to improve comprehension, confidence, and academic performance.
+      <li>Maintain a professional, supportive learning environment that promotes student success, accountability, and ethical academic practices.</li>
+  </ul>
         <!-- Add 1-3 bullets on what you built or led: <ul><li>...</li></ul> -->
       </div>
             <div class="item">
         <h3>Volunteer Undergraduate Research Assistant</h3>
         <p class="where">He Group</p>
         <p class="when">Oct 2024 – Feb 2025</p>
+              <ul>
+    <li>Supported research on water security through advanced materials, collaborating with a graduate student on synthesizing metal-organic frameworks (MOFs) and conducting spray-dry experiments. </li>
+  </ul>
               <!-- Add 1-3 bullets on what you built or led: <ul><li>...</li></ul> -->
             </div>
        <div class="item">
         <h3>Campus Ambassador</h3>
         <p class="where">Hot Girl Walk</p>
         <p class="when">Nov 2024 – Dec 2025</p>
+         <ul>
+    <li>Fostered a supportive community of students by connecting individuals through shared wellness, personal growth, and empowerment goals.</li>
+    <li>Served as a representative of a global wellness and female empowerment brand, helping expand its campus presence and community reach.</li>
+  </ul>
         <!-- Add 1-3 bullets on what you built or led: <ul><li>...</li></ul> -->
        </div>
                   <div class="item">
         <h3>Treasurer</h3>
         <p class="where">AIAA Florida Tech</p>
         <p class="when">Aug 2024 – Dec 2025</p>
+                    <ul>
+    <li>Managed organization finances, including tracking expenses, maintaining accurate financial records, and monitoring available funds.</li>
+    <li>Coordinated budgeting and financial planning for AIAA events, projects, and competition teams while ensuring responsible use of organization funds.</li>
+        <li>Collaborated with AIAA leadership and university departments to process funding requests, reimbursements, and other financial transactions.</li>
+  </ul>
         <!-- Add 1-3 bullets on what you built or led: <ul><li>...</li></ul> -->
                   </div>
                    <div class="item">
         <h3>Safety Chair / Safety & Legal Compliance Officer</h3>
         <p class="where">AIAA Florida Tech</p>
         <p class="when">Aug 2023 – Dec 2025</p>
+                     <ul>
+    <li>Maintained and updated safety documentation, procedures, and the organizationrsquo;s safety binder for events, projects, and competition teams.</li>
+    <li>Collaborated with university EHS and other departments to ensure compliance with safety requirements and applicable BiProp standards.</li>
+                       <li>Identified potential hazards across competition teams and AIAA activities, working proactively with members to address risks and improve overall safety practices.</li>
+  </ul>
         <!-- Add 1-3 bullets on what you built or led: <ul><li>...</li></ul> -->
                    </div>
                     <div class="item">
         <h3>Social Media Chair</h3>
         <p class="where">AIAA Florida Tech</p>
         <p class="when">Aug 2023 – Dec 2024</p>
+                      <ul>
+    <li>Managed AIAA's social media and promotional content to increase awareness of organization events, projects, meetings, and activities.</li>
+    <li>Created and coordinated digital content, including graphics, announcements, and event promotions, to effectively communicate with members and the broader student community.</li>
+                        <li>Collaborated with AIAA leadership and competition teams to highlight projects, achievements, and opportunities while maintaining a consistent organizational presence.</li>
+  </ul>
         <!-- Add 1-3 bullets on what you built or led: <ul><li>...</li></ul> -->
                     </div>
                      <div class="item">
         <h3>Student Government Association Representative</h3>
         <p class="where">AIAA Florida Tech</p>
         <p class="when">Aug 2023 – Dec 2024</p>
+                       <ul>
+    <li>Represented AIAA within the Student Government Association (SGA), communicating organization needs, concerns, and initiatives to university representatives.</li>
+    <li>Attended SGA meetings and relayed relevant updates, policies, and opportunities back to AIAA leadership and members.</li>
+    <li>Collaborated with student organizations and university representatives to support AIAA events, funding initiatives, and organizational activities.</li>        
+  </ul>
         <!-- Add 1-3 bullets on what you built or led: <ul><li>...</li></ul> -->
                      </div>
                       <div class="item">
         <h3>Volunteer Student Course Proctor</h3>
         <p class="where">AIAA</p>
         <p class="when">Mar 2025 – May 2025</p>
+                               <ul>
+    <li>Hosted AIAA online short course sessions by starting Zoom meetings/webinars early, performing tech checks, and ensuring instructor audio/visual systems were fully functional.</li>
+    <li>Assisted instructors throughout the course by troubleshooting technical issues, starting/monitoring lecture recordings, and managing participant audio controls.</li>
+    <li>Delivered scripted course introductions, explained class procedures to attendees, and introduced instructors by presenting their professional bios.</li>        
+    <li>Moderated Q&A during lectures and supported smooth course flow through real-time communication with instructors and participants.</li>
+     <li>Completed AIAA’s official proctor training and provided reliable technical and logistical support across 8–36 hours of live instructional time.</li>
+  </ul>
         <!-- Add 1-3 bullets on what you built or led: <ul><li>...</li></ul> -->
                       </div>
        <div class="item">
@@ -258,19 +302,19 @@ footer{text-align:center;color:var(--muted);font-size:.88rem;padding:20px 0 40px
         <h3>Payload Sub-Systems Lead</h3>
         <p class="where">Rocketbirds</p>
         <p class="when">Aug 2020 – May 2021</p>
-        <!-- Add 1-3 bullets on what you built or led: <ul><li>...</li></ul> -->
+ <!-- Add 1-3 bullets on what you built or led: <ul><li>...</li></ul> -->
       </div>
       <div class="item">
         <h3>Vice President, Lead Electrical, Media and Marketing</h3>
         <p class="where">FIRST Robotics: FRC Team 5429 (2016–2020), FTC Team 12445 (2018–2020)</p>
         <p class="when">Aug 2016 – May 2020 &middot; Also FLL Judge (2016–2020)</p>
-        <!-- Add bullets here -->
+ <!-- Add bullets here -->
       </div>
       <div class="item">
         <h3>Media and Marketing, Summer Camp Mentor</h3>
         <p class="where">VEX Robotics: Team 7853 (2016–2020)</p>
         <p class="when">Aug 2016 – May 2020 &middot; VEX IQ summer camp mentor (2018–2020)</p>
-        <!-- Add bullets here -->
+ <!-- Add bullets here -->
       </div>
     </div>
   </section>
