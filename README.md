@@ -281,8 +281,8 @@ footer{text-align:center;color:var(--muted);font-size:.88rem;padding:20px 0 40px
     <p class="sub">Things I've built. Replace these three with your own.</p>
     <div class="payloads">
       <article class="payload"><div class="bay"></div>
-        <h3>Project One</h3>
-        <p>One or two sentences on what it does and why you built it.</p>
+        <h3>NAR Level 2 High-Power Rocketry Certification</h3>
+        <p>Used OpenRocket to evaluate the vehicles's predicted performance. Fabricated and assembled the necessary flight hardware. Integrated avionics/GPS and prepared the vehicle for high-power flight. The rocket reached approximately 9,000 ft using a K motor. The experience strengthened my interest in propulsion and aerospace systems by showing how closely propulsion, aerodynamics, structures, avionics, and flight operations are connected.</p>
         <div class="chips" style="margin-top:12px"><span class="chip">MATLAB</span><span class="chip">ANSYS</span></div>
         <div class="links"><a href="https://github.com/gabbyrocket/project-one" target="_blank" rel="noopener">Code</a><a href="#" target="_blank" rel="noopener">Details</a></div>
       </article>
