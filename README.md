@@ -271,7 +271,7 @@ figcaption{color:var(--muted);font-size:.88rem;margin-top:6px;text-align:center}
         <div class="card wide">
           <h3>Drafting / Submittal Tech</h3>
           <p class="where">CO2 Monitoring LLC, Las Vegas, Nevada</p>
-          <p class="when">Jan 2026 – Present</p>
+          <p class="when">Jan 2026 – May 2026</p>
           <ul>
             <li>Prepare and submit permit drawings through city, state, and fire department portals, ensuring full code compliance.</li>
             <li>Create detailed floor plans and layouts for restaurants, bars, and commercial facilities in Bluebeam.</li>
